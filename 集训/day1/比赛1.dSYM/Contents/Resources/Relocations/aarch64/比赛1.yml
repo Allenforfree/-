@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/alenliu/Desktop/集训/day1/比赛1"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z7isPrimei, symObjAddr: 0x0, symBinAddr: 0x100003CF4, symSize: 0x114 }
+  - { offsetInCU: 0x2DEF, offset: 0x2DEF, size: 0x8, addend: 0x0, symName: __Z7isPrimei, symObjAddr: 0x0, symBinAddr: 0x100003CF4, symSize: 0x114 }
+  - { offsetInCU: 0x2E37, offset: 0x2E37, size: 0x8, addend: 0x0, symName: __Z4sqrtB8ue170006IiENSt3__19enable_ifIXsr3std11is_integralIT_EE5valueEdE4typeES2_, symObjAddr: 0x114, symBinAddr: 0x100003E08, symSize: 0x24 }
+  - { offsetInCU: 0x2E6E, offset: 0x2E6E, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x138, symBinAddr: 0x100003E2C, symSize: 0x148 }
+...
